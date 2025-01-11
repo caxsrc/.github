@@ -37,3 +37,10 @@ impactful.
   All materials are freely available under an open-source license,
   encouraging collaboration and contribution from the global
   community.
+
+
+## Current Focus Areas
+
+* **Computational Physics**:
+  Techniques for solving differential equations, simulating physical
+  systems, and analyzing data.
