@@ -44,3 +44,20 @@ impactful.
 * **Computational Physics**:
   Techniques for solving differential equations, simulating physical
   systems, and analyzing data.
+
+
+## How to Get Involved
+
+We welcome contributions and collaboration from anyone passionate
+about computational science education.
+Whether you are an educator, a student, or a professional, there are
+many ways to contribute:
+
+* Submit suggestions or feedback via GitHub Issues, e.g., in
+  [`cana`](https://github.com/caxsrc/cana/issues) and
+  [`caph`](https://github.com/caxsrc/caph/issues).
+* Propose new features or topics through pull requests.
+* Share your own computational science resources for integration.
+
+Let's make computational science education accessible and exciting for
+everyone!
