@@ -19,3 +19,21 @@ The CA-X project aims to:
 By integrating modern tools, open-source practices, and interactive
 resources, CA-X seeks to make computational science education more
 impactful.
+
+
+## Key Features
+
+* **Educational Modules**:
+  Modular, topic-specific resources covering computational methods,
+  programming, and numerical approaches.
+
+* **Interactive Content**:
+  Resources designed to be run and explored interactively using
+  [Jupyter notebooks](https://jupyter.org/),
+  [Google Colab](https://colab.research.google.com/), or
+  [GitHub Codespaces](https://github.com/features/codespaces).
+
+* **Open-Source Philosophy**:
+  All materials are freely available under an open-source license,
+  encouraging collaboration and contribution from the global
+  community.
